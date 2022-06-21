@@ -1,0 +1,68 @@
+[
+   {
+      "_id": {
+         "$oid": "62b15a59215021ba36c144e1"
+      },
+      "name": "Pollo frito",
+      "ingredients": [
+         "Arroz",
+         "Pollo",
+         "Sal",
+         "Ajo",
+         "Pimienta"
+      ],
+      "preparation": "La preparación",
+      "benefits": "Los beneficios son",
+      "category": "Platos de Fondo",
+      "image": {
+         "url": "https://res.cloudinary.com/dhlpmmqie/image/upload/v1654632918/appDistribuidas/remffyl8zhm1rkxnczne.jpg",
+         "public_id": "appDistribuidas/remffyl8zhm1rkxnczne"
+      },
+      "createdAt": {
+         "$date": {
+            "$numberLong": "1654632919414"
+         }
+      },
+      "updatedAt": {
+         "$date": {
+            "$numberLong": "1655497414703"
+         }
+      },
+      "__v": {
+         "$numberInt": "0"
+      }
+   },
+   {
+      "_id": {
+         "$oid": "62b15a67215021ba36c144e2"
+      },
+      "name": "Cebiche arequipeño",
+      "ingredients": [
+         "Pescado",
+         "Pimienta",
+         "Cebolla",
+         "Ajo",
+         "Limón"
+      ],
+      "preparation": "La preperación",
+      "benefits": "Los beneficios son",
+      "category": "Entradas",
+      "image": {
+         "url": "https://res.cloudinary.com/dhlpmmqie/image/upload/v1654633077/appDistribuidas/vpzahajuiiscqewimef6.jpg",
+         "public_id": "appDistribuidas/vpzahajuiiscqewimef6"
+      },
+      "createdAt": {
+         "$date": {
+            "$numberLong": "1654633077882"
+         }
+      },
+      "updatedAt": {
+         "$date": {
+            "$numberLong": "1655593283709"
+         }
+      },
+      "__v": {
+         "$numberInt": "0"
+      }
+   }
+]

@@ -1,0 +1,68 @@
+[
+   {
+      "_id": {
+         "$oid": "62b158c7215021ba36c144dd"
+      },
+      "name": "Test 1",
+      "email": "test1@gmail.com",
+      "mobile": "",
+      "password": "$2b$05$crJS37RT.SZhSInqZAP.kO7Co1PPrDJyNt8wQDkC61705zr.KeCsG",
+      "favorites": [
+         {
+            "$oid": "62a764e3dc29352aa3882da7"
+         },
+         {
+            "$oid": "62a7686478b7b6992fd59e00"
+         },
+         {
+            "$oid": "62aff18102e8c3de259dddcb"
+         }
+      ],
+      "createdAt": {
+         "$date": {
+            "$numberLong": "1654706359582"
+         }
+      },
+      "updatedAt": {
+         "$date": {
+            "$numberLong": "1655697793991"
+         }
+      },
+      "__v": {
+         "$numberInt": "159"
+      }
+   },
+   {
+      "_id": {
+         "$oid": "62b1591b215021ba36c144de"
+      },
+      "name": "Test 2",
+      "email": "test2@gmail.com",
+      "mobile": "",
+      "password": "$2b$05$4abZpx1pwwqP877nLrzCiOI.FJ51X7Cht5lLtsIZUdqDjueJYPaq6",
+      "favorites": [
+         {
+            "$oid": "62adf6fc8a7255c23983a252"
+         },
+         {
+            "$oid": "62adf6fd8a7255c23983a259"
+         },
+         {
+            "$oid": "62adf80b8a7255c23983a288"
+         }
+      ],
+      "createdAt": {
+         "$date": {
+            "$numberLong": "1654723283744"
+         }
+      },
+      "updatedAt": {
+         "$date": {
+            "$numberLong": "1655568400431"
+         }
+      },
+      "__v": {
+         "$numberInt": "82"
+      }
+   }
+]
